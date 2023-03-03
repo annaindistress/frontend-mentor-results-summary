@@ -1,0 +1,21 @@
+@import './fonts.css';
+@import './components/box-sizing.css';
+@import './components/visually-hidden.css';
+@import './components/page.css';
+@import './components/card.css';
+
+:root {
+  --red: 0, 100%, 67%;
+  --yellow: 39, 100%, 56%;
+  --green: 166, 100%, 37%;
+  --blue: 234, 85%, 45%;
+
+  --pale-blue: hsl(221, 100%, 96%);
+  --lavender: hsl(241, 100%, 89%);
+  --dark-blue: 224, 30%, 27%;
+
+  --slate-blue: hsl(252, 100%, 67%);
+  --royal-blue: hsl(241, 81%, 54%);
+  --violet-blue: hsl(256, 72%, 46%, 1);
+  --violet-blue-transparent: hsla(241, 72%, 46%, 0);
+}
